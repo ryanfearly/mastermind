@@ -1,6 +1,6 @@
 # mastermind
 
-* This is a Ruby command line implementation of Mastermind from The Odin Project's [Curriculum] (https://www.theodinproject.com/lessons/oop)
+* This is a Ruby command line implementation of Mastermind from The Odin Project's [Curriculum](https://www.theodinproject.com/lessons/oop)
 * The computer generates a secret code, and then the human tries to guess the code
 * Figuring out the core algorithm of this game took surprisingly long - especially how to give feedback on an answer
 * This also provided some nice array exercise
